@@ -1,6 +1,8 @@
 # 💫 About Me:
 I’m a full-stack engineer in Pune with 5 years of experience building production React, Next.js, and TypeScript apps for a major U.S. airline. I lead a small team, care about tests and accessible interfaces, and I’m now deepening my backend skills with Node.js, Express, and MongoDB.
 
+
+
 🔭 Building a YouTube clone backend (Node.js, Express, MongoDB, Cloudinary) with token auth and a clean controller and middleware structure
 
 🌱 Exploring Docker, Kubernetes, and AI agents with RAG, backed by hands-on certificates in AI agents with Node.js and TypeScript
