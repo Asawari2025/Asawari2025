@@ -2,11 +2,17 @@
 I’m a full-stack engineer in Pune with 5 years of experience building production React, Next.js, and TypeScript apps for a major U.S. airline. I lead a small team, care about tests and accessible interfaces, and I’m now deepening my backend skills with Node.js, Express, and MongoDB.
 
 🔭 Building a YouTube clone backend (Node.js, Express, MongoDB, Cloudinary) with token auth and a clean controller and middleware structure
+
 🌱 Exploring Docker, Kubernetes, and AI agents with RAG, backed by hands-on certificates in AI agents with Node.js and TypeScript
+
 💬 Ask me about React and Next.js at airline-booking scale, Jest test suites built from scratch, and fixing WCAG accessibility issues
+
 🧭 Lead a team of four developers on releases and production support, so I’m happy to talk code reviews, mentoring, and shipping calmly
+
 👯 Open to React + Node collaborations and open-source contributions
+
 📍 Pune, India, open to remote or hybrid roles
+
 ⚡ Fun fact: I’ve taken part in 120+ community activities through the Karuna CSR Team, Leo Club of Pune, and NSS
 
 
